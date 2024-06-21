@@ -1,0 +1,22 @@
+{
+    "todos":[
+        {
+            "id": 1,
+            "description": "Remember mom's birthday",
+            "created": "21.10.2023 20.16.59",
+            "status": "live"
+        },
+        {
+            "id": 2,
+            "description": "Go shopping for groceries",
+            "created": "15.10.2023 11.04.43",
+            "status": "draft"
+        },
+        {
+            "id": 3,
+            "description": "Water the plants",
+            "created": "11.10.2023 15.24.46",
+            "status": "live"
+        }
+    ]
+}

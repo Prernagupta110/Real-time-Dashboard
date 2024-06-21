@@ -1,0 +1,28 @@
+{
+    "events":[
+        {
+            "id": 1,
+            "title": "Weekly review",
+            "description": "WWW Applications course project",
+            "date": "12.12.2023",
+            "startTime": "13.00",
+            "endTime": "13.30"
+        },
+        {
+            "id": 2,
+            "title": "Dinner with family",
+            "description": "At Fat Lizard Otaniemi",
+            "date": "21.12.2023",
+            "startTime": "18.00",
+            "endTime": "21.00"
+        },
+        {
+            "id": 3,
+            "title": "Group exercising",
+            "description": "Unisport",
+            "date": "11.12.2023",
+            "startTime": "19.00",
+            "endTime": "20.00"
+        }
+    ]
+}
